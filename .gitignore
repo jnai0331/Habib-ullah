@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
+*.py[cod] Habib/Ullah
+*$python2 habibullah.py.class
 
 # C extensions
 *.so
